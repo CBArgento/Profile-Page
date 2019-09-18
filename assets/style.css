@@ -1,0 +1,26 @@
+.bodystyle {
+  background: white;
+}
+
+.navbar li a{
+  color: black;
+}
+
+.navbar-brand {
+  color: whitesmoke;
+}
+
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
+
+<img src="assets/images/Blueprint.png" alt="mypic" height="200" width="155">
+
+.headerpic {
+  background-image: src="https://github.com/CBArgento/Profile-Page/blob/master/assets/images/Blueprint.png?raw=true";
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-color: blue;
+}
